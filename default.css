@@ -1,0 +1,98 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+header {
+    margin-top: 75px;
+    
+    align-items: center;
+    
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 64px;
+    
+}
+
+h2 {
+    text-align: center;
+    font-size: 48px;
+}
+
+p {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+button {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color:rgb(40,40,40);
+  color:white;
+  font-size: 18px;
+}
+
+.lighterbackground {
+    background-color:  rgb(245,245,245);
+   
+}
+
+.darkerbackground {
+    background-color: rgb(225,225,225);
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+
+#soldier {
+    width: 300px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    margin-top:64px;
+}
+#driving {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#fatherandson {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wife {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#family {
+    margin-bottom: 50px;
+}
+#contact {
+    color: white;
+    text-decoration: none;
+}
+footer {
+    background-color: rgb(50,50,50);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: white;
+    text-align: center;
+}
